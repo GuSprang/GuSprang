@@ -26,3 +26,7 @@ ___
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&logo=linux)
 
 
+![snake gif](https://github.com/GuSprang/GuSprang/blob/output/github-snake-dark.svg)
+
+
+
