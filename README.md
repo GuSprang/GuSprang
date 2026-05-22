@@ -74,11 +74,11 @@ I'm a Software Engineering student at **Universidade de Mogi das Cruzes (UMC)**,
 
 <div align="center">
 
-![GitHub Stats](https://readme-stats-six-ivory.vercel.app/api?username=GuSprang&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-eqykdse09-gu-sprang-s-projects.vercel.app/api?username=GuSprang&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GuSprang&theme=shadow_blue&hide_border=false)
 
-![Top Languages](https://readme-stats-six-ivory.vercel.app/api/top-langs/?username=GuSprang&theme=shadow_blue&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats-eqykdse09-gu-sprang-s-projects.vercel.app/api/top-langs/?username=GuSprang&theme=shadow_blue&hide_border=false&layout=compact)
 
 </div>
 
