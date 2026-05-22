@@ -12,7 +12,7 @@ I'm a Software Engineering student at **Universidade de Mogi das Cruzes (UMC)**,
 - 🌱 Deepening my knowledge in **Java**, **Spring Boot**, **design patterns** and **REST APIs**
 - 🧪 Also exploring **Assembly**, **Linux internals** and **OS development** out of curiosity
 - 💼 Former **IT Support Technician** at UMC
-- 📍 Based in Suzano, SP — Brazil
+- 📍 Based in Brazil
 
 <br/>
 
