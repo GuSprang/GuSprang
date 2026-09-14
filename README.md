@@ -66,7 +66,7 @@ I'm a Software Engineering student at **Universidade de Mogi das Cruzes (UMC)**,
 | [Projeto-ONG](https://github.com/GuSprang/Projeto-ONG) | Charity campaign management system with full CRUD and donation tracking | Java · Spring Boot · Firebase |
 | [MiniZelda-Java](https://github.com/GuSprang/MiniZelda-Java) | A mini Zelda-inspired game built in Java | Java |
 | [CadastraObras](https://github.com/GuSprang/CadastraObras) | Works registration system | Java · MySQL |
-| [Aprendendo-Java](https://github.com/GuSprang/Aprendendo-Java) | Java learning exercises and experiments | Java |
+| [KOSG-Lyrics-Overlay](https://github.com/GuSprang/KOSG-Lyrics-Overlay) | An app that lets you see Spotify lyrics without having Spotify open | Python |
 
 <br/>
 
